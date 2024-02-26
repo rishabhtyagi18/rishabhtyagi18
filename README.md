@@ -7,7 +7,7 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
+<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/v2/ZjyEMegqlF1vByOibT1Ui.png?type=default&r=527" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
 
 A full-stack developer 🎯 from India who is passionate, self-taught, and quick to pick things up. At present, I am employed at Markopolo.ai as a frontend engineer 👨‍🎓. I adore working with cutting-edge technologies and creating online applications 🔭. For a better user experience, I'm now learning how to enhance progressive web applications' performance 🌱. To create better online and mobile app experiences, I'm hoping to put my skills to use as a member of a quick-witted, quality-driven team. 🚀. 
 
