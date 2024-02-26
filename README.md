@@ -14,9 +14,9 @@ A full-stack developer 🎯 from India who is passionate, self-taught, and quick
   <br />
   
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![age]([https://img.shields.io/badge/age-25-blueviolet](https://img.shields.io/badge/age-28-blueviolet))
+![age](https://img.shields.io/badge/age-28-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living]([https://img.shields.io/badge/living-Dhaka-ff69b4](https://img.shields.io/badge/living-India-ff69b4))
+![living](https://img.shields.io/badge/living-India-ff69b4)
 ![projects](https://img.shields.io/badge/projects-38-important)
 
   <br />
